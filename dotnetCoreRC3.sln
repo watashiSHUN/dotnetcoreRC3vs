@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26119.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetCoreRC3", "dotnetCoreRC3\dotnetCoreRC3.csproj", "{FF2FBEAD-8AC2-4F23-9689-845762FBE53E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetcoreLib1", "dotnetcoreLib1\dotnetcoreLib1.csproj", "{3A09A851-AFEB-4E52-8130-542CA79BDD16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{FF2FBEAD-8AC2-4F23-9689-845762FBE53E}.Release|x64.Build.0 = Release|x64
 		{FF2FBEAD-8AC2-4F23-9689-845762FBE53E}.Release|x86.ActiveCfg = Release|x86
 		{FF2FBEAD-8AC2-4F23-9689-845762FBE53E}.Release|x86.Build.0 = Release|x86
+		{3A09A851-AFEB-4E52-8130-542CA79BDD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A09A851-AFEB-4E52-8130-542CA79BDD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A09A851-AFEB-4E52-8130-542CA79BDD16}.Debug|x64.ActiveCfg = Debug|x64
+		{3A09A851-AFEB-4E52-8130-542CA79BDD16}.Debug|x64.Build.0 = Debug|x64
+		{3A09A851-AFEB-4E52-8130-542CA79BDD16}.Debug|x86.ActiveCfg = Debug|x86
+		{3A09A851-AFEB-4E52-8130-542CA79BDD16}.Debug|x86.Build.0 = Debug|x86
+		{3A09A851-AFEB-4E52-8130-542CA79BDD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A09A851-AFEB-4E52-8130-542CA79BDD16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A09A851-AFEB-4E52-8130-542CA79BDD16}.Release|x64.ActiveCfg = Release|x64
+		{3A09A851-AFEB-4E52-8130-542CA79BDD16}.Release|x64.Build.0 = Release|x64
+		{3A09A851-AFEB-4E52-8130-542CA79BDD16}.Release|x86.ActiveCfg = Release|x86
+		{3A09A851-AFEB-4E52-8130-542CA79BDD16}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
